@@ -6,6 +6,7 @@ Java 8 Streams
 1) What Are Streams?
 Streams can be defined as a sequences of elements from a source which support
     data processing operations. You can treat streams as operations on data.
+
 2) Why Streams?
    Almost every Java application use Collections API to store and process the data.
    Despite being the most used Java API, it is not easy to write the code for even
